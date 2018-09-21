@@ -1,3 +1,6 @@
+IntelliJ Version: 2018.1.4
+Build #UI-181.5087.20, built on May16, 2018
+
 With the inclusion of the following gradle dependency:
 
     testCompile 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.70'
